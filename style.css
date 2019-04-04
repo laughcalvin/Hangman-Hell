@@ -1,0 +1,52 @@
+body {
+    background-image: url("https://images.fineartamerica.com/images-medium-large-5/2-dante-divine-comedy-granger.jpg");
+    background-size: 100%;
+}
+
+.jumbotron {
+    background-image: url("http://www.satanicsf.com/wp-content/uploads/2016/12/Sinners-In-Hell.jpg");
+    background-size: 100%;
+    color: maroon;
+    font-weight: bold;
+    border: 15px solid ivory;
+    margin-top: 10%;
+}
+
+h1 {
+    font-size: 1000%;
+    color: #ff0537;
+    font-family: 'UnifrakturMaguntia', cursive;
+    text-shadow: 5px 5px 5px black;
+}
+
+p {
+    font-family: 'Fahkwang', sans-serif;
+}
+
+#guessWhich {
+    font-size: 30px;
+    color: #09eeb5;
+    margin: auto;
+    background: black;
+    color: ivory;
+    font-family: 'Fahkwang', sans-serif;
+    margin-bottom: 10%;
+    padding: 20px;
+}
+
+.card {
+    margin-bottom: 5%;
+    border: 5px solid black;
+}
+
+.card-header {
+    background: crimson;
+}
+
+.footer {
+    background: gray;
+    border-top: 5px solid black;
+    color: ivory;
+    padding-top: 20px;
+    bottom: 0;
+}
